@@ -1,0 +1,11 @@
+{
+  "name": "ng-weather",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "angular": "latest",
+    "angular-mocks": "latest",
+    "jquery": "latest"
+  }
+}
